@@ -6,7 +6,7 @@ We utilize several services that make things like bookkeeping, receipts, signatu
 
 ## Principles
 
-Some principles have helped us streamline our operations:
+Some principles have helped us streamline our operation:
 
 * Automate repetitive tasks.
 * Outsource things that we are not good at.
