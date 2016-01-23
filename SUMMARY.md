@@ -4,5 +4,5 @@
 * [Operations](operations.md)
    * [Accounting](accounting.md)
    * [Documents](documents.md)
-   * [Communications](communications.md)
+   * [Communication](communication.md)
 
