@@ -6,4 +6,3 @@ Your @timand.co email address is hosted at Gmail but we try to make an effort to
 
 For quick chat, or reaching out to a co-worker directly- we have a Tim + Co slack channel.  Slack has  a desktop, chrome, and mobile app so you can always be in close communication.  
 
-Trivial Edit
