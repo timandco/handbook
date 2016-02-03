@@ -5,5 +5,5 @@
    * [Accounting](accounting.md)
    * [Documents](documents.md)
    * [Communication](communication.md)
-* Business Model
+* [Business Model](business_model.md)
 
