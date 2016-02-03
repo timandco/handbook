@@ -6,5 +6,5 @@
    * [Documents](documents.md)
    * [Communication](communication.md)
 * [Business Model](business_model.md)
-   * Customer Segments
+   * [Customer Segments](customer_segments.md)
 
