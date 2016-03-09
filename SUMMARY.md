@@ -5,7 +5,7 @@
    * [Accounting](accounting.md)
    * [Documents](documents.md)
    * [Communication](communication.md)
-   * Credentials
+   * [Credentials](credentials.md)
 * [Business Model](business_model.md)
    * [Customer Segments](customer_segments.md)
 
